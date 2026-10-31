@@ -1,0 +1,10 @@
+TURBO MINE - Minecraft 1.16.5 Forge - compilar en GitHub (sin instalar nada)
+1) Crea cuenta en github.com y un repositorio nuevo (boton "New", ponle nombre "turbomine", Public).
+2) Descomprime este zip en tu PC.
+3) En el repositorio: "uploading an existing file" y arrastra TODO el contenido
+   de la carpeta descomprimida (incluida la carpeta .github y la carpeta src). Pulsa "Commit changes".
+4) Ve a la pestana "Actions": veras "Compilar mod" ejecutandose (tarda ~3-6 min).
+5) Al terminar (check verde), entra a esa ejecucion y baja "turbomine-jar" de Artifacts.
+6) Descomprime ese zip: dentro esta turbomine-1.16.5-1.0.jar. Copialo a la carpeta mods
+   de tu instancia Forge 1.16.5 en Battly.
+Si sale una X roja, abre la ejecucion y pasame el texto del error.
